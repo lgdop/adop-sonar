@@ -1,4 +1,4 @@
-https://github.com/SonarSource/SonarJS/releases/download/4.0.0.5862/sonar-javascript-plugin-4.0.0.5862.jar
+https://github.com/SonarSource/SonarJS/releases/download/3.3.0.5702/sonar-javascript-plugin-3.3.0.5702.jar
 http://central.maven.org/maven2/org/sonarsource/java/sonar-java-plugin/5.1.0.13090/sonar-java-plugin-5.1.0.13090.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-ldap-plugin/1.4/sonar-ldap-plugin-1.4.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-build-breaker-plugin/1.1/sonar-build-breaker-plugin-1.1.jar
