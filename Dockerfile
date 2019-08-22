@@ -1,4 +1,4 @@
-FROM sonarqube:5.6.7
+FROM sonarqube:6.7.5
 
 MAINTAINER Robert Northard, <robert.a.northard>
 
