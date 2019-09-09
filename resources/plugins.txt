@@ -2,7 +2,6 @@ https://github.com/SonarSource/SonarJS/releases/download/3.3.0.5702/sonar-javasc
 https://github.com/SonarSource/sonar-java/releases/download/4.15-RC1/sonar-java-plugin-4.15.0.12310.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-ldap-plugin/1.4/sonar-ldap-plugin-1.4.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-build-breaker-plugin/1.1/sonar-build-breaker-plugin-1.1.jar
-http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/scm-activity/sonar-scm-activity-plugin/1.8/sonar-scm-activity-plugin-1.8.jar
 https://github.com/checkstyle/sonar-checkstyle/releases/download/3.3/checkstyle-sonar-plugin-3.3.jar
 https://github.com/SonarQubeCommunity/sonar-css/releases/download/2.1/sonar-css-plugin-2.1.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-motion-chart-plugin/1.7/sonar-motion-chart-plugin-1.7.jar
@@ -12,7 +11,7 @@ http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-timeli
 http://central.maven.org/maven2/org/sonarsource/web/sonar-web-plugin/2.6.0.1053/sonar-web-plugin-2.6.0.1053.jar
 http://central.maven.org/maven2/org/sonarsource/xml/sonar-xml-plugin/1.4.1/sonar-xml-plugin-1.4.1.jar
 http://central.maven.org/maven2/org/sonarsource/groovy/sonar-groovy-plugin/1.4/sonar-groovy-plugin-1.4.jar
-http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-issues-report-plugin/1.3/sonar-issues-report-plugin-1.3.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-tab-metrics-plugin/1.4.1/sonar-tab-metrics-plugin-1.4.1.jar
-https://github.com/SonarQubeCommunity/sonar-findbugs/releases/download/3.4.4/sonar-findbugs-plugin-3.4.4.jar
+https://github.com/spotbugs/sonar-findbugs/releases/download/3.9.4/sonar-findbugs-plugin-3.9.4.jar
 http://downloads.sonarsource.com/plugins/org/codehaus/sonar-plugins/sonar-issues-density-plugin/1.0/sonar-issues-density-plugin-1.0.jar
+https://github.com/galexandre/sonar-cobertura/releases/download/2.0/sonar-cobertura-plugin-2.0.jar
